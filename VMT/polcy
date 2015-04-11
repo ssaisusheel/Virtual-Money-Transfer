@@ -1,0 +1,25 @@
+/* AUTOMATICALLY GENERATED ON Mon Sep 30 22:42:51 IST 2013*/
+/* DO NOT EDIT */
+
+grant codeBase "file:C:/programs/" {
+  permission java.io.FilePermission "account.txt", "write";
+  permission java.io.FilePermission "account.txt", "read";
+  permission java.io.FilePermission "shoppingmalls.txt", "read";
+  permission java.io.FilePermission "account1.txt", "read";
+  permission java.io.FilePermission "account2.txt", "read";
+  permission java.io.FilePermission "account1.txt", "write";
+  permission java.io.FilePermission "account2.txt", "write";
+  permission java.io.FilePermission "count.txt", "write";
+  permission java.io.FilePermission "count.txt", "read";
+  permission java.io.FilePermission "spl.txt", "read";
+  permission java.io.FilePermission "verify.txt", "write";
+  permission java.io.FilePermission "verify.txt", "read";
+  permission java.io.FilePermission "check.txt", "read";
+  permission java.io.FilePermission "check.txt", "write";
+  permission java.io.FilePermission "mallaccnts.txt", "read";
+  permission java.io.FilePermission "mallaccnts.txt", "write";
+  permission java.io.FilePermission "my.java", "execute";
+  permission java.io.FilePermission "<<ALL FILES>>", "execute";
+  permission java.io.FilePermission "bal.java", "execute";
+};
+
